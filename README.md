@@ -84,3 +84,12 @@ UNESCO (2017). Education for Sustainable Development Goals: Learning Objectives.
 
 ΑΠΑΙΤΟΥΜΕΝΟΣ ΕΞΟΠΛΙΣΜΟΣ
 
+Α/Α	   Είδος	                                       Τιμή μονάδας	          Ποσότητα	     Σύνολο
+1	   Arduino UNO R3                                   	29,90	                  2	         60,00
+2	Αισθητήρας Απόστασης Υπερήχων 2 – 400cm HC-SR04     	6,00                  	2          	12,00
+3	Buzzer 5V – Passive                                 	0,60	                  2	          1,20
+4	Keyestudio Jumper Wires F-F & F-M & M-M 20cm     	    9,50	                  1	           9,50
+    5	Βάση για Μπαταρίες 2×18650 με καλώδιο και βύσμα  	2,90	                  2	           6,00
+6	Rocker Switch ON-ON DPDT 15A/250VAC - Medium Black   	1,00	                  1          	1,00
+
+Συνολικό κόστος: 90,00
