@@ -1,14 +1,15 @@
 # blepw_alliws
 
-```markdown
 # 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ  
-## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης  
+## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης
 
-![STEM](https://img.shields.io/badge/STEM-Education-blue)
-![Accessibility](https://img.shields.io/badge/Accessibility-Inclusion-green)
-![Arduino](https://img.shields.io/badge/Arduino-UNO-teal)
-![Open Source](https://img.shields.io/badge/Open%20Source-Educational-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+<p align="center">
+  <img src="https://img.shields.io/badge/STEM-Education-blue" />
+  <img src="https://img.shields.io/badge/Accessibility-Inclusion-green" />
+  <img src="https://img.shields.io/badge/Arduino-UNO-teal" />
+  <img src="https://img.shields.io/badge/Open%20Source-Educational-orange" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+</p>
 
 ---
 
