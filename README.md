@@ -42,7 +42,7 @@
 
 Obstacle → Ultrasonic Sensor → Arduino → Buzzer (ήχος)
 
-
+```
 
 Ανιχνεύει εμπόδια στο ύψος του σώματος και ειδοποιεί με ήχο.
 
