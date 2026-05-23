@@ -42,7 +42,7 @@
 
 Obstacle → Ultrasonic Sensor → Arduino → Buzzer (ήχος)
 
-```
+
 
 Ανιχνεύει εμπόδια στο ύψος του σώματος και ειδοποιεί με ήχο.
 
@@ -51,11 +51,11 @@ Obstacle → Ultrasonic Sensor → Arduino → Buzzer (ήχος)
 ### 👟 Έξυπνα Παπούτσια
 ```
 
-Ground Gap → Sensor → Arduino → Vibration Motor
+Ground Gap → Ultrasonic Sensor → Arduino → Buzzer
 
 ```
 
-Ανιχνεύει σκαλοπάτια ή κενά στο έδαφος και ειδοποιεί με δόνηση.
+Ανιχνεύει σκαλοπάτια ή κενά στο έδαφος και ειδοποιεί με ήχο.
 
 ---
 
