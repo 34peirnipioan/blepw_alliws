@@ -1,5 +1,59 @@
 # blepw_alliws
+# 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ
 
+<div align="center">
+
+## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης
+
+### STEM • Accessibility • Inclusion • Early Childhood Education
+
+<img src="media/photos/hero-image.jpg" width="900"/>
+
+<br>
+
+![STEM](https://img.shields.io/badge/STEM-Education-blue)
+![Accessibility](https://img.shields.io/badge/Accessibility-Inclusion-green)
+![Arduino](https://img.shields.io/badge/Arduino-UNO-teal)
+![Open Source](https://img.shields.io/badge/Open%20Source-Educational-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</div>
+
+---
+
+## 🌍 About The Project
+
+Το «Βλέπω Αλλιώς» είναι ένα συνεργατικό STEM project προσχολικής εκπαίδευσης που σχεδιάστηκε από δύο τμήματα νηπιαγωγείου με στόχο την κατανόηση των δυσκολιών που αντιμετωπίζουν τα άτομα με προβλήματα όρασης και τη δημιουργία υποστηρικτικών τεχνολογικών λύσεων.
+
+Το έργο συνδυάζει:
+- κοινωνική ευαισθητοποίηση,
+- συμπερίληψη,
+- τεχνολογία,
+- μηχανική,
+- βιωματική μάθηση,
+- και συνεργατική επίλυση προβλημάτων.
+
+---
+
+# 🦯 Smart Cane System
+
+Το έξυπνο μπαστούνι χρησιμοποιεί αισθητήρα υπερήχων για την ανίχνευση εμποδίων και προειδοποιεί τον χρήστη μέσω ηχητικού σήματος.
+
+```
+Obstacle → Ultrasonic Sensor → Arduino → Buzzer
+```
+
+---
+
+# 👟 Smart Shoes System
+
+Τα έξυπνα παπούτσια ανιχνεύουν υψομετρικές αλλαγές και κενά στο έδαφος και ειδοποιούν μέσω δόνησης.
+
+```
+Ground Gap → Sensor → Arduino → Vibration Motor
+```
+
+---
 # 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ  
 ## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης
 
