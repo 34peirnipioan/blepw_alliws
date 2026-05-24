@@ -3,7 +3,7 @@
 ## Electronics
 - Arduino UNO
 - Distance Sensor
-- Vibration Motor
+- Buzzer
 - Jumper Wires
 - Battery Holder
 
