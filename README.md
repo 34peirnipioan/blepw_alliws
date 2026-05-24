@@ -105,6 +105,76 @@ Ground Gap → Sensor → Arduino → buzzer
 
 ---
 
+# 🔧 Technical Architecture
+
+Το έργο αποτελείται από δύο συνεργαζόμενα υποσυστήματα:
+
+| Subsystem | Function |
+|---|---|
+| 🦯 Smart Cane | Ανίχνευση εμποδίων σε ύψος σώματος |
+| 👟 Smart Shoes | Ανίχνευση κενών και υψομετρικών αλλαγών |
+
+---
+
+# 🧩 Repository Structure
+
+```text
+blepw_alliws/
+│
+├── smart-cane/
+│   ├── code/
+│   ├── materials/
+│   ├── wiring/
+│   ├── build/
+│   └── testing/
+│
+├── smart-shoes/
+│   ├── code/
+│   ├── materials/
+│   ├── wiring/
+│   ├── build/
+│   └── testing/
+│
+├── media/
+│   ├── photos/
+│   ├── videos/
+│   ├── posters/
+│   └── presentations/
+│
+├── classroom-activities/
+├── docs/
+└── assets/
+```
+
+---
+
+# ⚙️ Technologies Used
+
+- Arduino UNO
+- HC-SR04 Ultrasonic Sensors
+- Passive Buzzer
+- Vibration Motor
+- Jumper Wires
+- Battery Modules
+- STEM Methodology
+- Inquiry-Based Learning
+- Collaborative Learning
+
+---
+
+# 🧠 Educational Approach
+
+Το έργο βασίζεται σε:
+- βιωματική μάθηση,
+- διερευνητική προσέγγιση,
+- STEM εκπαίδευση,
+- συνεργατική επίλυση προβλημάτων,
+- και καλλιέργεια ενσυναίσθησης.
+
+Οι κατασκευές λειτουργούν ως εργαλεία διερεύνησης και κοινωνικής ευαισθητοποίησης και όχι ως αυτοσκοπός.
+
+---
+
 ## 🎯 Στόχοι
 
 - Καλλιέργεια ενσυναίσθησης και σεβασμού στη διαφορετικότητα  
