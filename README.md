@@ -239,6 +239,44 @@ blepw_alliws/
 
 ---
 
+# 📸 Project Gallery
+
+## 🦯 Smart Cane Development
+
+<p align="center">
+  <img src="media/photos/smart-cane-testing.jpg" width="45%">
+  <img src="media/photos/sensor-wiring.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="media/photos/prototype-closeup.jpg" width="45%">
+  <img src="media/photos/children-building-cane.jpg" width="45%">
+</p>
+
+---
+
+## 👟 Smart Shoes Development
+
+<p align="center">
+  <img src="media/photos/smart-shoes-prototype.jpg" width="45%">
+  <img src="media/photos/smart-shoes-testing.jpg" width="45%">
+</p>
+
+---
+
+## 🧠 Classroom Activities & Empathy
+
+<p align="center">
+  <img src="media/photos/empathy-activity.jpg" width="45%">
+  <img src="media/photos/problem-discussion.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="media/photos/design-thinking-session.jpg" width="45%">
+  <img src="media/photos/finding-solutions.jpg" width="45%">
+</p>
+
+---
 ## 👥 Ομάδα
 
 34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων
