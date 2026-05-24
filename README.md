@@ -54,24 +54,6 @@ Ground Gap → Sensor → Arduino → Vibration Motor
 ```
 
 ---
-# 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ  
-## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STEM-Education-blue" />
-  <img src="https://img.shields.io/badge/Accessibility-Inclusion-green" />
-  <img src="https://img.shields.io/badge/Arduino-UNO-teal" />
-  <img src="https://img.shields.io/badge/Open%20Source-Educational-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow" />
-</p>
-
----
-
-## 🌍 Περιγραφή Έργου
-
-Το «Βλέπω Αλλιώς» είναι ένα συνεργατικό STEM project προσχολικής εκπαίδευσης που σχεδιάστηκε από δύο τμήματα νηπιαγωγείου.
-
-Στόχος του έργου είναι η κατανόηση των δυσκολιών που αντιμετωπίζουν τα άτομα με προβλήματα όρασης και η ανάπτυξη απλών τεχνολογικών λύσεων που υποστηρίζουν την ασφαλή μετακίνησή τους.
 
 ### Το σύστημα περιλαμβάνει:
 - 🦯 Έξυπνο μπαστούνι με αισθητήρα απόστασης και ηχητική ειδοποίηση  
