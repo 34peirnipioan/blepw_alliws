@@ -284,6 +284,33 @@ blepw_alliws/
 
 ---
 
+# 🤝 Contributing & Educational Use
+
+Το έργο διατίθεται ως ανοικτό εκπαιδευτικό project και μπορεί να αξιοποιηθεί από:
+
+- σχολεία,
+- νηπιαγωγεία,
+- STEM εργαστήρια,
+- εκπαιδευτικούς,
+- ομάδες εκπαιδευτικής ρομποτικής.
+
+Οι κατασκευές, οι δραστηριότητες και το εκπαιδευτικό υλικό μπορούν να προσαρμοστούν ανάλογα με τις ανάγκες κάθε μαθησιακού περιβάλλοντος.
+
+---
+
+# 💡 Possible Future Extensions
+
+Το project μπορεί να επεκταθεί με:
+- vibration motors αντί buzzer,
+- wearable accessibility systems,
+- AI obstacle recognition,
+- smart vests,
+- accessibility mapping,
+- συνεργασίες με φορείς αναπηρίας,
+- διασχολικά STEM δίκτυα.
+
+---
+
 # 📸 Project Gallery
 
 ## 🦯 Smart Cane Development
