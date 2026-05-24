@@ -47,10 +47,10 @@ Obstacle → Ultrasonic Sensor → Arduino → Buzzer
 
 # 👟 Smart Shoes System
 
-Τα έξυπνα παπούτσια ανιχνεύουν υψομετρικές αλλαγές και κενά στο έδαφος και ειδοποιούν μέσω δόνησης.
+Τα έξυπνα παπούτσια ανιχνεύουν υψομετρικές αλλαγές και κενά στο έδαφος και ειδοποιούν μέσω ηχητικού σήματος.
 
 ```
-Ground Gap → Sensor → Arduino → Vibration Motor
+Ground Gap → Sensor → Arduino → buzzer
 ```
 
 ---
