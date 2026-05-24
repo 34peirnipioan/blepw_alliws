@@ -34,6 +34,36 @@
 
 ---
 
+---
+
+# 🇬🇷 Ελληνική Περίληψη
+
+Το «Βλέπω Αλλιώς» είναι ένα συνεργατικό STEM έργο προσχολικής εκπαίδευσης που σχεδιάστηκε από δύο τμήματα νηπιαγωγείου με στόχο την κατανόηση των δυσκολιών που αντιμετωπίζουν τα άτομα με προβλήματα όρασης και τη δημιουργία υποστηρικτικών τεχνολογικών λύσεων.
+
+Το έργο περιλαμβάνει:
+- ένα έξυπνο μπαστούνι ανίχνευσης εμποδίων,
+- ένα σύστημα έξυπνων παπουτσιών για ανίχνευση κενών και υψομετρικών αλλαγών,
+- δραστηριότητες ενσυναίσθησης,
+- βιωματική και συνεργατική μάθηση.
+
+Μέσα από τη διαδικασία αυτή, τα παιδιά καλλιεργούν δεξιότητες STEM, δημιουργικότητα, συνεργασία και κοινωνική υπευθυνότητα.
+
+---
+
+# 🇬🇧 English Abstract
+
+“Seeing Differently” is a collaborative early childhood STEM project developed by two kindergarten classrooms aiming to explore the challenges faced by visually impaired individuals and design supportive technological solutions.
+
+The project includes:
+- a smart obstacle-detection cane,
+- smart shoes capable of detecting gaps and ground-level changes,
+- empathy-based classroom activities,
+- hands-on collaborative learning experiences.
+
+Through this process, children develop STEM skills, creativity, teamwork, empathy, and social responsibility while understanding how technology can improve accessibility and inclusion.
+
+---
+
 # 🦯 Smart Cane System
 
 Το έξυπνο μπαστούνι χρησιμοποιεί αισθητήρα υπερήχων για την ανίχνευση εμποδίων και προειδοποιεί τον χρήστη μέσω ηχητικού σήματος.
