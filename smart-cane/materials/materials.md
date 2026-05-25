@@ -8,6 +8,6 @@
 - Battery Holder
 
 ## Construction Materials
-- Cane base
+- PVC tube (cane body)
 - Tape
 - Cardboard supports
