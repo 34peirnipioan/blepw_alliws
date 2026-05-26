@@ -343,6 +343,24 @@ blepw_alliws/
 Μέσα από το έργο, τα παιδιά συνειδητοποιούν ότι η τεχνολογία μπορεί να χρησιμοποιηθεί για να βελτιώσει τη ζωή των ανθρώπων και να δημιουργήσει μια πιο συμπεριληπτική κοινωνία.
 
 ---
+## 📊 Project Impact
+
+<div align="center">
+
+| Category | Impact |
+|---|---|
+| 👧 Students Involved | 2 Kindergarten Classrooms |
+| 🤝 Collaboration | Team-based learning |
+| 🧠 STEM Skills | Sensors, coding, engineering |
+| ❤️ Social Skills | Empathy & inclusion |
+| 🌍 SDGs Supported | 4, 9, 10 |
+| 🦯 Accessibility Focus | Visual impairment support |
+| 🔧 Prototypes Developed | Smart Cane & Smart Shoes |
+| 📚 Educational Approach | Inquiry-based STEM learning |
+
+</div>
+
+---
 
 # 🌍 Sustainable Development Goals (SDGs)
 
