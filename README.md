@@ -61,7 +61,7 @@
 
 | Classroom Activities | Empathy Learning |
 |---|---|
-| <img src="media/classroom_activities_braille.jpg" width="400"> | <img src="media/classroom/empathy_activity.jpg" width="400"> |
+| <img src="media/classroom_activities_braille.jpg" width="400"> | <img src="media/classroom_activities_empathy2.jpg" width="400"> |
 
 </div>
 
