@@ -51,7 +51,7 @@
 
 | Smart Cane Prototype | Smart Shoes Prototype |
 |---|---|
-| <img src="media/photos/smart-cane-testing.jpg" width="400"> | <img src="media/photos/smart-cane-testing.jpg" width="400"> |
+| <img src="media/photos/hero-image.jpg" width="400"> | <img src="media/photos/smart-cane-testing.jpg" width="400"> |
 
 </div>
 
