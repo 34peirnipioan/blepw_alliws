@@ -178,6 +178,53 @@ Ground Gap → Sensor → Arduino → buzzer
 
 ---
 
+## 🧩 System Architecture
+
+<div align="center">
+
+```text
+SMART CANE
+
+Obstacle Detection
+        ↓
+HC-SR04 Ultrasonic Sensor
+        ↓
+Arduino UNO
+        ↓
+Buzzer Alert
+```
+
+---
+
+```text
+SMART SHOES
+
+Ground Gap Detection
+        ↓
+HC-SR04 Ultrasonic Sensor
+        ↓
+Arduino UNO
+        ↓
+Audio Alert
+```
+
+</div>
+
+---
+
+## 🔌 Hardware Overview
+
+| Component | Purpose |
+|---|---|
+| Arduino UNO | Main microcontroller |
+| HC-SR04 Sensor | Distance detection |
+| Passive Buzzer | Audio warning |
+| Battery Pack | Portable power |
+| Jumper Wires | Connections |
+| Wearable Materials | Prototype construction |
+
+---
+
 # 🧩 Repository Structure
 
 ```text
@@ -221,40 +268,6 @@ blepw_alliws/
 - STEM Methodology
 - Inquiry-Based Learning
 - Collaborative Learning
-
----
-
-## 🧩 System Architecture
-
-<div align="center">
-
-```text
-SMART CANE
-
-Obstacle Detection
-        ↓
-HC-SR04 Ultrasonic Sensor
-        ↓
-Arduino UNO
-        ↓
-Buzzer Alert
-```
-
----
-
-```text
-SMART SHOES
-
-Ground Gap Detection
-        ↓
-HC-SR04 Ultrasonic Sensor
-        ↓
-Arduino UNO
-        ↓
-Audio Alert
-```
-
-</div>
 
 ---
 
