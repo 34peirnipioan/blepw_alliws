@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="media/banner/banner.png" width="100%">
+</p>
+
+
 # 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ
 
 <div align="center">
