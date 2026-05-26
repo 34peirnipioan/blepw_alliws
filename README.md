@@ -3,26 +3,32 @@
 </p>
 
 
+<div align="center">
 
 # 👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ
 
-<div align="center">
+### Inclusive STEM Project for Visual Accessibility  
+### 34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων
 
-## Ένα Ολοκληρωμένο Σύστημα Ασφαλείας για Άτομα με Προβλήματα Όρασης
+---
 
-### STEM • Accessibility • Inclusion • Early Childhood Education
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
+[![STEM](https://img.shields.io/badge/STEM-Education-blue?style=for-the-badge)]()
+[![Accessibility](https://img.shields.io/badge/Accessibility-Inclusion-success?style=for-the-badge)]()
+[![Open Source](https://img.shields.io/badge/Open%20Educational-Project-orange?style=for-the-badge)]()
 
-<img src="media/photos/hero-image.jpg" width="900"/>
+---
 
-<br>
+### 🦯 Smart Cane + 👟 Smart Shoes  
+### Assistive Technology Designed Through Kindergarten STEM Learning
 
-![STEM](https://img.shields.io/badge/STEM-Education-blue)
-![Accessibility](https://img.shields.io/badge/Accessibility-Inclusion-green)
-![Arduino](https://img.shields.io/badge/Arduino-UNO-teal)
-![Open Source](https://img.shields.io/badge/Open%20Source-Educational-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+---
+
+🇬🇷 Ελληνικά • 🇬🇧 English • 🌍 Accessibility • 🤝 Inclusion • 🚀 Innovation
 
 </div>
+
+---
 
 ---
 
