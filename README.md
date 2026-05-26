@@ -45,7 +45,27 @@
 - και συνεργατική επίλυση προβλημάτων.
 
 ---
+## 📸 Project Gallery
 
+<div align="center">
+
+| Smart Cane Prototype | Smart Shoes Prototype |
+|---|---|
+| <img src="media/photos/cane/cane_test.jpg" width="400"> | <img src="media/photos/shoes/shoes_testing.jpg" width="400"> |
+
+</div>
+
+---
+
+<div align="center">
+
+| Classroom Activities | Empathy Learning |
+|---|---|
+| <img src="media/classroom/class_activity_1.jpg" width="400"> | <img src="media/classroom/empathy_activity.jpg" width="400"> |
+
+</div>
+
+---
 ---
 
 # 🇬🇷 Ελληνική Περίληψη
