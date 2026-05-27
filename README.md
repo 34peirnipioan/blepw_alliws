@@ -166,6 +166,19 @@ Ground Gap → Sensor → Arduino → buzzer
 Το έργο αναδεικνύει πώς η τεχνολογία μπορεί να λειτουργήσει ως εργαλείο κοινωνικής συμπερίληψης και ενσυναίσθησης ήδη από την προσχολική ηλικία.
 
 ---
+## 🗓️ Project Timeline
+
+| Phase | Description |
+|---|---|
+| 1️⃣ Problem Awareness | Discussion about visual impairment and accessibility |
+| 2️⃣ Empathy Activities | Blindfold activities and guided movement experiences |
+| 3️⃣ Research & Brainstorming | Identifying movement challenges and proposing ideas |
+| 4️⃣ STEM Exploration | Learning about sensors, sound, and obstacle detection |
+| 5️⃣ Prototype Construction | Building the smart cane and smart shoes |
+| 6️⃣ Testing & Improvements | Experimenting and improving prototypes |
+| 7️⃣ Presentation | Sharing the project with the school community |
+
+---
 
 # 🔧 Technical Architecture
 
