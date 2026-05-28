@@ -37,6 +37,7 @@
 
     .hero{
       max-width:900px;
+      animation:fadeIn 1.5s ease;
     }
 
     .hero h1{
@@ -168,11 +169,25 @@
       color:#94a3b8;
       border-top:1px solid #334155;
     }
-
+.gradient-text{
+  background:linear-gradient(90deg,#38bdf8,#ffffff);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
     .highlight{
       color:#38bdf8;
     }
+@keyframes fadeIn{
+  from{
+    opacity:0;
+    transform:translateY(20px);
+  }
 
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
     @media(max-width:768px){
 
       .hero h1{
@@ -198,14 +213,17 @@
 
   <div class="hero">
 
-    <h1>👁️ ΒΛΕΠΩ ΑΛΛΙΩΣ</h1>
+    <h1>
+  👁️ <span class="gradient-text">ΒΛΕΠΩ ΑΛΛΙΩΣ</span>
+</h1>
 
     <p>
       Ένα inclusive STEM project από μαθητές νηπιαγωγείου
       που σχεδίασαν τεχνολογικές λύσεις προσβασιμότητας
       για άτομα με προβλήματα όρασης χρησιμοποιώντας Arduino.
-    </p>
-
+<p style="margin-top:20px; color:#38bdf8; font-weight:bold;">
+  Accessibility • Inclusion • STEM • Empathy
+</p>
     <div class="buttons">
 
       <a class="btn btn-primary"
