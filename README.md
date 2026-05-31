@@ -407,6 +407,14 @@ blepw_alliws/
 
 ---
 
+## 📘 Educator Guide
+
+Download the full educational implementation guide:
+
+- [PDF Version](docs/BLEPW_ALLIWS_Educator_Guide.pdf)
+- [DOCX Version](docs/BLEPW_ALLIWS_Educator_Guide.docx)
+
+
 # 🤝 Contributing & Educational Use
 
 Το έργο διατίθεται ως ανοικτό εκπαιδευτικό project και μπορεί να αξιοποιηθεί από:
